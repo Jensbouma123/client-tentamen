@@ -1,4 +1,4 @@
-# client-tentamen
+# Client aantekeningen
 Hulp repository voor client tentamen.
 
 
